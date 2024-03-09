@@ -1,5 +1,5 @@
 # EVM_Simulations
-Those scripts allow you to run simulations on token performances from 1 month to 1 year.
+Those scripts allow you to run simulations on token performances from 1 month to 1 year. You have to download the JSON file and change its lcoation according to where you put it in your computer to run both scripts. The outputs of those scripts are line charts.
 
 Price_comparison.py shows you the crypto-assets price variations for the timeframe you want (1 month to 1 year).
 
